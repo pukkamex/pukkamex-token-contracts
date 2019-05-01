@@ -6,7 +6,7 @@ Symbol: PUX
 Decimals: 18  
 Total Supply: 250,000,000
 
-The contracts are created with the OpenZeppelin library v2.0. The token is a standard ERC20 token implementing the IERC20 interface.
+The contracts are created with the OpenZeppelin library v2.2.0 The token is a standard ERC20 token implementing the IERC20 interface.
 
 ```
 /**
